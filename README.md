@@ -1,6 +1,6 @@
 # Posigliere coding challenge
 
-A RESTful API for managing a simple blogging platform, using a containerized Django application with PostgreSQL database and Docker setup.
+A RESTful API for managing a simple blogging platform, using a containerized Django application with PostgreSQL database, Docker and nginx setup.
 
 ## How to run it
 
@@ -9,7 +9,7 @@ A RESTful API for managing a simple blogging platform, using a containerized Dja
 - Git
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/henrique-a/blog-api.git
 cd api
 ```
 
